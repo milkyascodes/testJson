@@ -1,0 +1,22 @@
+{
+  "adminlist":[
+    {
+      "id": "p1",
+      "name": "ADMIN",
+      "checkedIn":true,
+      "checkedInTime": "checkedInTime"
+    },
+    {
+      "id": "p2",
+      "name": "ABEL",
+      "checkedIn":true,
+      "checkedInTime": "checkedInTime"
+    },
+    {
+      "id": "p3",
+      "name": "ABIGAIL",
+      "checkedIn":true,
+      "checkedInTime": "checkedInTime"
+    }
+  ]
+}
